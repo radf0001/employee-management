@@ -85,6 +85,9 @@ Rama (Branch)
 
 Tal como se muestra en la imagen a continuación
 
+<img width="968" alt="image" src="https://github.com/fredpena/employee-management/assets/5680906/5449dc06-0ef7-4a1f-836a-9b0b0fb3f4ed">
+
+
 Asegúrate de que todas las rutas del código sean cubiertas por tus pruebas unitarias.
 
 ### Instrucciones

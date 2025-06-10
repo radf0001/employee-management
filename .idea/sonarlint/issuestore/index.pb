@@ -11,8 +11,6 @@ p
 @src/main/java/edu/pucmm/exception/EmployeeNotFoundException.java,8/1/81f3d902d408e322e27a5353078e386ad6092d41
 q
 Asrc/main/java/edu/pucmm/exception/DuplicateEmployeeException.java,6/3/63e9db78195a2fae7f429169c457066c873e08d7
-d
-4src/test/java/edu/pucmm/EmployeeManagerBaseTest.java,4/7/4758fed29dfe5fe45b8fefb81e095c4d5c78e0dd
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
